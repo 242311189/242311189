@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    int arr[] = {10, 3, 5, 6, 8, 9};
+    int arr[] = {12, 3, 5, 6, 8, 9};
     int n = sizeof(arr) / sizeof(arr[0]);
     int even = 0, odd = 0;
 
